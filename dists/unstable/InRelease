@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: unstable
+Components: main
+Date: Mon, 19 Oct 2026 10:57:17 +0000
+Description: Orden, unstable
+Label: Orden
+Origin: Orden
+Suite: unstable
+MD5Sum:
+ 15f90d371b4005f4275b31eb1fabc560             1130 main/binary-amd64/Packages
+ 21ed74b76c1408a5c995a422cd8ded97              709 main/binary-amd64/Packages.gz
+ 0c8f7f1f1bbc0a10779d15b5046a8fdb             1130 main/binary-arm64/Packages
+ fd02aaced251434b27f78fdce0f6193d              706 main/binary-arm64/Packages.gz
+SHA1:
+ d6e02e7357776cf021f8ad1013edf0740d5a0f1b             1130 main/binary-amd64/Packages
+ 53458a4e8e8f8fa2ee74c53c6fcb5236cb61c780              709 main/binary-amd64/Packages.gz
+ 0dd638ff26efc741ff3ff738ebc46e88860b369c             1130 main/binary-arm64/Packages
+ 0a39b7acd4fa45429d44d5522dce029e53f1bbc7              706 main/binary-arm64/Packages.gz
+SHA256:
+ db29154009996300010231acf996e20b08c1e78099b1e029d4951f960f96c976             1130 main/binary-amd64/Packages
+ 7619b18d8ea5a5a4705c0e69645a0e0b471d4b62071d77fbae0834edd3ad0fc6              709 main/binary-amd64/Packages.gz
+ e5840083614fd8c7f36e50fc004c219725b9180c96ac30c652c5b41db11fc714             1130 main/binary-arm64/Packages
+ a52462c84849f42588f375c7d73ae3e3e12d8133d4ed387fc4d926b679370b77              706 main/binary-arm64/Packages.gz
+SHA512:
+ 5b2a27af5c01573abc73ee7e79d6b262965e9268c82c66be4b132e7b111d4a46a9a906f824a68cedc96d1a3455e8520c8d7ca5d1a9fcab6021a0c28da689dc24             1130 main/binary-amd64/Packages
+ 68d2bece62e6e0703ba106dedbfde73a77f9c1afe3d7c8090ed178b2dd55210514f94a1467cf52077a09a365a0d3e0c7e816786173307059672657ba57f50738              709 main/binary-amd64/Packages.gz
+ 48495e3439fe5594e6cb7e53b051dec0217b04588596f89c6cdf08b231be4a3d5b8b1446e1534c7f8cbd4729a20f03be97ce9c4ff08bb8ed2c9a0773739f13fe             1130 main/binary-arm64/Packages
+ 7d96dcfb9f235b751ef1ebcd319ea90478699f5670f3d805b43e7d1766477222e45068bb5d0f3242a3b55ae641da029ea215c3f4aa65e4c75fede0d1d55654fa              706 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQREQEsZU5+yxT8xCGlB8BA0SKGU3gUCatX3jQAKCRBB8BA0SKGU
+3kF1AQD5ntD20XC5doqywfZYzk4jl+xHJh+pckoMMLadKiRGmgD7BJXHA1cpk77v
+bfKUWp1Tx1rRKBGuKkuPV+rafK33rwQ=
+=Jr2U
+-----END PGP SIGNATURE-----

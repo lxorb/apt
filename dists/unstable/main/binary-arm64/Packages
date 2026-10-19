@@ -1,0 +1,20 @@
+Package: orden
+Architecture: arm64
+Version: 0.16.1-769+moved
+Priority: optional
+Maintainer: Emil Vinu
+Installed-Size: 22482
+Depends: libwebkit2gtk-4.1-0 (>= 2.40.0), gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: gstreamer1.0-libav, gstreamer1.0-plugins-bad
+Conflicts: nib, nibeditor
+Replaces: nib, nibeditor
+Filename: pool/unstable/orden_0.16.1-769+moved_arm64.deb
+Size: 12037580
+MD5sum: 2327a374f5441f976bd313745094a302
+SHA1: defc49a8d125c40430b34144d0c002b74e19aa2a
+SHA256: 4cd90ac227ebfeceec318ca2966aab2ac359a3d270ced4319fcf63f143907fe4
+SHA512: 37bdacc26cf8c34be078adb9f192c86045a5fe4dfdf5b5234be1c16e436ef2cf84022c1fc6d9ee809208ad3d317064fdd05db171b04c9ed520ca1df37ce099aa
+Homepage: https://orden.so
+Description: Markdown editor with live preview
+ Orden is a small markdown editor that formats what you write as you write it. There is no split screen and no preview pane: headings, emphasis, lists, tables, code and math take their final shape in the same window you type in, and the markdown underneath stays plain text you can open anywhere.
+

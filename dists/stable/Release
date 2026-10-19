@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 19 Oct 2026 10:57:04 +0000
+Description: Orden, stable
+Label: Orden
+Origin: Orden
+Suite: stable
+MD5Sum:
+ fdca85f7e9e8ab073f75f82ec16211d7             1120 main/binary-amd64/Packages
+ 2335afc6b174467461b8e78519b0689f              702 main/binary-amd64/Packages.gz
+ 40ad8556619dd0b0bed33328bfebde2f             1120 main/binary-arm64/Packages
+ 8676321b63be0aaf3dc32400d3234c0c              703 main/binary-arm64/Packages.gz
+SHA1:
+ 1293cf3ac745c9a5122ecfb5a8545337f5e8216f             1120 main/binary-amd64/Packages
+ 7acdd296d4fd13395354d43bd40efb89c2968f78              702 main/binary-amd64/Packages.gz
+ 8c9e58b968f23225355fc1ef63ef2224998406f6             1120 main/binary-arm64/Packages
+ b6d3033a2b2c9806f89f04b4fe515c72b6ebb76d              703 main/binary-arm64/Packages.gz
+SHA256:
+ 1a974fce20bee1495330c6c9db9d2d23f5949b91bec13d278be2ec496ae949b7             1120 main/binary-amd64/Packages
+ 16f8bf524ba71c3638367a4fb470a3edc68b0f9b0a43ec56cfc4f5ecf2e374fc              702 main/binary-amd64/Packages.gz
+ 4790dec504656cb48880e9a2d210631ec64bf8886c49b18817873c7202b61c03             1120 main/binary-arm64/Packages
+ bb7b2b66977b8409875288f2b207cedb22cce4d11ce6c0b5dcc57efcb717083c              703 main/binary-arm64/Packages.gz
+SHA512:
+ 3a093820ac0aa0a1202ca16fac57fe4ee016de23f1f405a9dd73f87c82243b5841b67a4851143b401458658ef66c4fb49da893e91c753687ff1674434aa0ee46             1120 main/binary-amd64/Packages
+ 5e84fb92cd16f99cb60d8261ac1d5a71aae1c1ccccb136604bbf1df53936099c2abb0355429a9cd5b6824cbb5665abc3d6ad154072dbf74dffe0164b0406e25a              702 main/binary-amd64/Packages.gz
+ b98203b4560cbe706129a6381876e40bf46e9f256d74117825a5c5f7f52180692d8f8a9b902fca1fca07c729d9bcf205bfe0881450e8f335ab2e55e94832ac94             1120 main/binary-arm64/Packages
+ 4a61cad371225ff422c330873ed0b7025e2ccaa5df47e7adf9f5014874255db944fc145a3c8abd0eb9ef9aa4f4cb03a257030f59d497affbce0eb7d309feb9f8              703 main/binary-arm64/Packages.gz
